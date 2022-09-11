@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    background-color: whitesmoke;
+    color: green;
+    font-size:28px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.link {
+    color: black;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    list-style: none;
+}
